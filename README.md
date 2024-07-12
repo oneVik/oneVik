@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oneVik
+- 👋 Hi, I’m Vikram!,call me vk!
 - 👀 I’m interested in codeUnlimited
 - 🌱 I’m currently learning javascript/webdevlopment
 - 💞️ I’m looking to collaborate on new ideas
